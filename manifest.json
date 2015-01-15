@@ -6,7 +6,8 @@
 
   "permissions": [
     "tabs",
-    "http://*/*"
+    "http://*/*",
+    "webRequest"
   ],
 
   "browser_action": {
